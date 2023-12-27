@@ -2,6 +2,8 @@
 
 https://marvelous-macaron-fdb8b7.netlify.app/
 
+
+
 #Output on Desktop
 
 ![image](https://github.com/chayan7489/HuluWebpageClone/assets/61390152/084cbc3f-6493-46a0-854a-f2beeaa27484)
